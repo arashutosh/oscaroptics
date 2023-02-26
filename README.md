@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscaroptics
-- 👀 I’m a HTML, CSS, Bootstrap developer ...
-- 🌱 I’m currently learning javascript ...
+- 👀 frontend development
+- 🌱 learning solidity
 - 📫 arashutosh01@gmail.com
 
 <!---
