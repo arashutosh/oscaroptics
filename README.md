@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscaroptics
-- 👀 frontend development
-- 🌱 learning solidity
+- 👀 blah blah blah
+- 🌱 databases
 - 📫 arashutosh01@gmail.com
 - https://twitter.com/zomiezack
 - https://www.linkedin.com/in/a-r-ashutosh-93b178206/
