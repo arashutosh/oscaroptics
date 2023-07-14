@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscaroptics
-- 👀 blah blah blah
-- 🌱 databases
+- 👀 working on backend skills
+- 🌱 learning Data Sturctures
 - 📫 arashutosh01@gmail.com
 - https://twitter.com/zomiezack
 - https://www.linkedin.com/in/a-r-ashutosh-93b178206/
