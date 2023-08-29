@@ -3,7 +3,7 @@
 <h5>Currently a CSE student at Chandigarh University'25</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscaroptics&label=Profile%20views&color=0e75b6&style=flat" alt="oscaroptics" /></p>
 <hr/>
-<a href="https://app.daily.dev/ashubabu"><img align="right" src="https://api.daily.dev/devcards/cc2e114f2ed04ea2ab4c2be0b4680ae3.png?r=fvi" style="width: 30%" alt="oscar's Dev Card"/></a>
+<a href="https://app.daily.dev/ashubabu"><img align="right" src="https://app.daily.dev/ashubabu"><img src="https://api.daily.dev/devcards/89459f85d4484ac88b452da182fc3a9f.png?r=jnp" style="width: 30%" alt="oscar's Dev Card"/></a>
 
 
 - 🌱 I’m currently learning **firebase, typescript & DSA**
