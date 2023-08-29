@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arashutosh01@gmail.com**
 
-// - 📄 Know about my experiences: [My Resume [Click Me]](https://drive.google.com/file/d/1rnHvPDkTIRoCCOp1V1WWeRHsosmFOFwh/view?usp=sharing)
+
 
 
 
