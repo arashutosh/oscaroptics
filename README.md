@@ -46,4 +46,4 @@
 <hr/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarOptics&theme=aura-dark&hide_border=true&exclude_days=Sun&card_width=485)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
