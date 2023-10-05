@@ -46,4 +46,4 @@
 <hr/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-steel-zeta.vercel.app?user=oscaroptics&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
