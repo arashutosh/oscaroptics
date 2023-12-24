@@ -46,4 +46,4 @@
 <hr/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats-steel-zeta.vercel.app?user=oscaroptics&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oscaroptics&theme=dark)](https://git.io/streak-stats)
