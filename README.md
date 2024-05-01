@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm A R Ashutosh</h1>
 <h3 align="left">A passionate backend developer from Bihar, India</h3>
-<h5>Backend Engineer at CrudStudio.com</h5>
+<h5>Backend Engineer at CrudStudio</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscaroptics&label=Profile%20views&color=0e75b6&style=flat" alt="oscaroptics" /></p>
 <hr/>
 <a href="https://app.daily.dev/ashubabu"><img align="right" src="https://api.daily.dev/devcards/89459f85d4484ac88b452da182fc3a9f.png?r=jnp" style="width: 30%" alt="oscar's Dev Card"/></a>
 
 
-- 🌱 I’m currently learning **firebase, typescript & DSA**
+- 🌱 I’m currently learning **DOM**
 
 - 💬 Ask me about **backend architecture, database design**
 
