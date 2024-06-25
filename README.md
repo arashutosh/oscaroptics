@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/ashubabu"><img align="right" src="https://api.daily.dev/devcards/89459f85d4484ac88b452da182fc3a9f.png?r=jnp" style="width: 30%" alt="oscar's Dev Card"/></a>
 
 
-- 🌱 I’m currently learning **DOM**
+- 🌱 I’m currently learning **NESTJS**
 
 - 💬 Ask me about **backend architecture, database design**
 
